@@ -20,3 +20,4 @@ class Neuro(object):
             input=self.vfun(input)
             input=np.dot(input, i)
         return input
+1
